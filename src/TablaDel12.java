@@ -6,5 +6,8 @@ public class TablaDel12
         {
             System.out.println(Desarrollado para la aplicación Maths.);
         }
+        {
+            System.out.println("Desarrollado para la aplicación Maths.")
+        }
     }
 }
